@@ -1,35 +1,51 @@
-# Dashboard Analytics
+# Excel Dashboard
 
-An interactive dashboard for visualizing, analyzing, and monitoring key business metrics in one centralized interface.
+An Excel-based dashboard for tracking, analyzing, and presenting key business metrics in a clear and interactive format.
 
 ## Overview
 
-Dashboard Analytics provides a clear and user-friendly way to explore data, track performance, and identify important trends. It is designed to help users make faster and more informed decisions through interactive charts, tables, and summary metrics.
+This project contains a business dashboard created entirely in Microsoft Excel. It uses spreadsheet formulas, tables, charts, and dashboard layouts to organize data and provide useful insights.
 
 ## Features
 
-- Interactive dashboard interface
+- Interactive Excel dashboard
 - Key performance indicator summaries
-- Data visualization using charts and graphs
-- Filtering and sorting options
-- Responsive layout
-- Easy-to-understand analytics
-- Clean and user-friendly design
+- Formula-driven calculations
+- Charts and visual reports
+- Data tables and summaries
+- Filtering and sorting functionality
+- Easy-to-use reporting layout
+- Suitable for business performance tracking
 
-## Tech Stack
+## Tools Used
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Chart.js
+- Microsoft Excel
+- Excel formulas
+- Excel tables
+- Excel charts
+- Pivot tables and slicers, if applicable
 
-> Update this section based on the technologies used in your project.
+## Workbook Contents
 
-## Installation
+The workbook may include the following sections:
 
-Clone the repository:
+- Raw data
+- Data cleaning or preparation
+- Calculations
+- Summary metrics
+- Charts and visualizations
+- Final dashboard
 
-```bash
-git clone https://github.com/YOUR-USERNAME/dashboard-analytics.git# dashboard-analytics
-An interactive dashboard for visualizing, analyzing, and monitoring key business metrics in one centralized interface.  README.md
+## How to Use
+
+1. Download the Excel workbook.
+2. Open the workbook using Microsoft Excel.
+3. Review the dashboard summary.
+4. Use filters, slicers, or dropdowns where available.
+5. Refresh the data or pivot tables if new data is added.
+6. Review the charts and key metrics.
+
+## File Format
+
+```text
+.xlsx
